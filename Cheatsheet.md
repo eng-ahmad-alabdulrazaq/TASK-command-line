@@ -1,5 +1,7 @@
 ## Terminal Cheat Sheet
 
+00
+
 > **Tip before you use the cheat sheet:**
 > Anytime you see `FILE_NAME` or `FOLDER_NAME` that means you should write a file name, or a folder name, don't literally write `FILE_NAME` because that's not part of the command.
 
